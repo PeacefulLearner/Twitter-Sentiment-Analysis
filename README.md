@@ -1,2 +1,3 @@
-# Twitter-Sentiment-Analysis
-Here is a rudimentary implementation of sentiment analysis with the utilization of opensource frameworks.
+## Twitter-Sentiment-Analysis
+This repository is a rudimentary implmentation of Natural Language processing using Twitter API v1.1 to stream tweets according to a particular hashtag.
+
