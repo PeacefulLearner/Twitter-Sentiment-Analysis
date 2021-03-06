@@ -9,11 +9,11 @@ import time
 import threading
 
 
-access_token="1326362589002149888-L1HZIK8K5vYHRPfOktglTmhlSk5KsK"
-access_secret="Qf8gf7dLvUrKqAssPmxqbJJ8XvlRG054oLmbJnBBBRMp8"
+access_token="ACCESS_TOKEN"
+access_secret="ACCESS_SECRET"
 
-consumer_key="jh9Tl3HwDRGk3or5AJYdCNVMV"
-consumer_secret="g8OTo6hQOXoXdhWi3eb4zRhEkfMaee765vcLIPSFjbr7sZENF4"
+consumer_key="CONSUMER_KEY"
+consumer_secret="CONSUMER_SECRET"
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
 
